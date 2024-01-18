@@ -10,7 +10,7 @@ labels:
   - Programming Languages
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img src="../img/it-depends/it-depends.png.jpg" alt="Descriptive Alt Text" style="width:100%; height:auto;">
 
 ## Hailing From Industry
 
