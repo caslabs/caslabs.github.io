@@ -10,7 +10,7 @@ labels:
   - Programming Languages
 ---
 
-<img src="../img/it-depends/it-depends.png.jpg" alt="Descriptive Alt Text" style="width:100%; height:auto;">
+<img src="../img/it-depends/it-depends.png" alt="A classic meme for for those who have been building software" style="width:100%; height:auto;">
 
 ## Hailing From Industry
 
