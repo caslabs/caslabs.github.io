@@ -20,7 +20,7 @@ Now, hailing from industry, my mental models now reign down to adapting to the n
 
 ## Typescript > Javascript
 
-### It Depends
+### It Depends.
 Now, I've been exposed to industry CS, and I would say that most software engineers, when building complex and large scale software with hudnreds or thousands of engineers like you and me, would often pick a programming language that is naturally aligned to the task in hand. Typescript, from what my mentors taught me, enables developer's producitivity to blossom as the software system grows larger and larger. Now, going from Javascript to Typescript is a strong entry of barrier, and from my personal experiences, I would get a headache attemping to get the code getting to work, due to its strong emphasis in its typing rules.  But from my experiences, the strong learning curve is the cost of building a scalable and maintainable software system down the line. Though, that is not to say that one must adopt Typescript for every javascript project, but do a very research of the nature of the project itself, and if Typescript can be much of a better solution than Javascript, and usually the characteristics of industry aligns with the characterisics of Typescript.
 
 Even with ES6, the lack of static typing is not ideal in industyr. Stability is one of the characteristics that software engineers should strive when building large scale applications, and dynamic typing is not ideal for such vision. When re-learning javascript, I cringed to the idea of not declaring types to my variables, function signatures, and return values. From my experiences, I can see how the accumulation of such code leads to inaccuracies and security vulnerabilities.
