@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "It Depends"
-# All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
 labels:

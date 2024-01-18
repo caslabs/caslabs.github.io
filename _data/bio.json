@@ -1,42 +1,39 @@
 {
   "basics": {
     "name": "Jeraldy Cascayan",
-    "label": "Student",
+    "label": "Undergraduate",
     "picture": "https://media.licdn.com/dms/image/C5603AQH8Fiobi-NyNQ/profile-displayphoto-shrink_800_800/0/1615151468661?e=1710979200&v=beta&t=PJeQKqsJv3QEmtMKHapXvwdwHUbLonCUaMti3T00ssU",
     "email": "jeraldy@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-485-7608",
     "website": "https://caslabs.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "caslabs", "url": "http://github.com/caslabs" },
+      { "network": "linkedin", "username": "jeraldycascayan", "url": "https://www.linkedin.com/in/jeraldy-cascayan-695112190/" }
     ]
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Neuromorphic Computing" },
     { "name": "Software Engineering" },
     { "name": "Game Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["SQL", "Rust", "Typescript", "Python", "React"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords":  ["Git", "AWS", "VSCode", "Jupyter Notebooks", "Jira", "Gitlabs", "Linux", "Docker", "React"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,69 +41,57 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Sci-MI",
+      "position": "Software Engineer Content Developer",
+      "location": "Honolulu HI",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Devised a Software Engineering curriculum focusing on theoretical foundations and advanced methodologies. Crafted and conveyed inspiring Software Engineering research content.",
+      "highlights": []
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "company": "Kuure",
+      "position": "Software Engineer Intern",
+      "location": "Portland OR",
+      "startDate": "2019-09-01",
+      "endDate": "2019-09-01",
+      "summary": "Restructured e-commerce webpages, optimizing performance. Engaged in code sprints and agile methodology, contributing to the development pipeline.",
+      "highlights": []
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "company": "Purple Ma’ia Indigenous Accelerator",
+      "position": "Data Science Intern",
+      "location": "Honolulu HI",
+      "startDate": "2019-09-01",
+      "endDate": "2019-09-01",
+      "summary": "Architected a data-driven market research system. Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities.",
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "NASA IRTF Selection Award",
+      "date": "2018",
+      "awarder": "NASA IRTF",
+      "summary": "Awarded for significant achievements and contributions."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hack4theSea Hackathon Winner",
+      "date": "2019",
+      "awarder": "Hack4theSea",
+      "summary": "Secured 1st Place in a marine-themed hackathon competition."
+    },
+    {
+      "title": "e-ICON World Contest Winner",
+      "date": "2017",
+      "awarder": "e-ICON World Contest",
+      "summary": "Won 1st Place in an international technology and innovation contest."
+    },
+    {
+      "title": "AFA CyberPatriot Gold Tier",
+      "date": "2018",
+      "awarder": "AFA CyberPatriot",
+      "summary": "Achieved Gold Tier status in a national cybersecurity competition."
     }
   ],
   "references": [
