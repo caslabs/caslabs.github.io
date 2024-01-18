@@ -10,7 +10,9 @@ labels:
   - Programming Languages
 ---
 
-<img src="../img/it-depends/it-depends.png" alt="A classic meme for for those who have been building software" style="width:100%; height:auto;">
+<div style="text-align: center;">
+    <img src="../img/it-depends/it-depends.png" alt="A classic meme for for those who have been building software" style="width:30%; height:30%;">
+</div>
 
 ## Hailing From Industry
 
