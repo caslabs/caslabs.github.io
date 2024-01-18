@@ -41,10 +41,19 @@
   ],
   "work": [
     {
+      "company": "AI4ALL",
+      "position": "Student Coordinator",
+      "location": "Honolulu HI",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "Coordinated the 2024 AI4ALL Ignite program, managing a session of students to build AI applications, while helping with the AI4ALL instructors executing their curriculum.",
+      "highlights": []
+    },
+    {
       "company": "Sci-MI",
       "position": "Software Engineer Content Developer",
       "location": "Honolulu HI",
-      "startDate": "2019-09-01",
+      "startDate": "2023-11-01",
       "endDate": "Present",
       "summary": "Devised a Software Engineering curriculum focusing on theoretical foundations and advanced methodologies. Crafted and conveyed inspiring Software Engineering research content.",
       "highlights": []
@@ -54,7 +63,7 @@
       "position": "Software Engineer Intern",
       "location": "Portland OR",
       "startDate": "2019-09-01",
-      "endDate": "2019-09-01",
+      "endDate": "2019-11-01",
       "summary": "Restructured e-commerce webpages, optimizing performance. Engaged in code sprints and agile methodology, contributing to the development pipeline.",
       "highlights": []
     },
@@ -62,7 +71,7 @@
       "company": "Purple Ma’ia Indigenous Accelerator",
       "position": "Data Science Intern",
       "location": "Honolulu HI",
-      "startDate": "2019-09-01",
+      "startDate": "2019-07-01",
       "endDate": "2019-09-01",
       "summary": "Architected a data-driven market research system. Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities.",
       "highlights": []
