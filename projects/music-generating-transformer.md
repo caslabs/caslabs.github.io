@@ -10,7 +10,7 @@ labels:
   - Deep Learning
   - NLP
   - Generative AI
-summary: "A Classical Musical AI composer that I've designed in AI4ALL"
+summary: "A Classical Musical AI Composer that I've designed in AI4ALL."
 ---
 
 <img class="img-fluid" src="../img/music-generating-transformer/music-generating-transformer.png">
