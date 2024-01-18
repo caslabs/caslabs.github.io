@@ -58,6 +58,8 @@ Typescript, from what my mentors taught me, enables developer's productivity to 
 Even with ES6, the lack of static typing is not ideal in industry. Stability is one of the characteristics that software engineers should strive when building large scale applications, and dynamic typing is not ideal for such vision. When re-learning javascript, I cringed to the idea of not declaring types to my variables, function signatures, and return values. From my experiences, I can see how the accumulation of such code, even though valid, leads to inaccuracies and security vulnerabilities in a large codebase.
 
 Say, for example, implementing a simple multiplication algorithm. Both are valid code and executes properly, but one is very error-prone than the other.
+
+### Written in JavaScript
 ```javascript
 function multiply(a, b) {
   return a * b;
@@ -66,6 +68,7 @@ function multiply(a, b) {
 console.log(multiply(1, [])) // This will output '0'! A very strange, yet valid behavior in Javascript
 ```
 
+### Written in Typescript
 ```typescript
 function multiply(a: number, b: number): number {
     return a * b;
@@ -74,9 +77,15 @@ function multiply(a: number, b: number): number {
 console.log(multiply(1, [])) // This will, in real time, tell you that your parameters are wrong. [] in not a number.
 
 ```
-Simple as these concrete examples are, when you design large scale codebase with thousands of functions interacting with each other, you're gonna pray that every function that you or others have wrriten is behaving as expected, otherwise you will have a messy day of debugging that single problem, that could otherwise, been prevented by enforcing a type system.
+Simple as these concrete examples are, when you design large scale codebase with thousands of functions interacting with each other, you're gonna pray that every function that you or others have written is behaving as expected, otherwise you will have a messy day of debugging that single problem, that could otherwise, been prevented by enforcing a type system.
 
 Another thing I love about Typescript, or say, what I dislike about Javascript, is its error feedback system. Naturally, your javascript code is determined at runtime, that is, you wait and see if there exist an error whilst the system is actively running. This is not necessarily quite a ideal design to have if your software is running to hundreds or millions of users. One of my key characteristics when programming is to have a system in place where it provides real time error feedback of the code you're writing. I love it when my compiler is enganging with my code in real time, even moreso, if with a lint system in place when writing and correcting code in real time. Vanilla Javascript doesn't tap into my programming flow, and usually creates more pain than fun when coding.
+
+<div style="text-align: center;">
+    <img src="../img/it-depends/real-time-type-system.png.png" alt="Real Time Feedback" style="width:30%; height:30%;">
+</div>
+
+As you can see, the transpiler is able to do type checking on the fly while coding in real time. It does this every time you save your code, while, in javascript, you must pray and hope that this function works everytime you manually run your code. I'm certain that somewhere in Human-Computer Interface aspects of programming, this fast feedback system is ideal for developer productivity.
 
 ## Atheltic Software Engineering ~= LeetCoding Culture
 
