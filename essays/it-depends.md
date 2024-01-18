@@ -82,7 +82,7 @@ Simple as these concrete examples are, when you design large scale codebase with
 Another thing I love about Typescript, or say, what I dislike about Javascript, is its error feedback system. Naturally, your javascript code is determined at runtime, that is, you wait and see if there exist an error whilst the system is actively running. This is not necessarily quite a ideal design to have if your software is running to hundreds or millions of users. One of my key characteristics when programming is to have a system in place where it provides real time error feedback of the code you're writing. I love it when my compiler is enganging with my code in real time, even moreso, if with a lint system in place when writing and correcting code in real time. Vanilla Javascript doesn't tap into my programming flow, and usually creates more pain than fun when coding.
 
 <div style="text-align: center;">
-    <img src="../img/it-depends/real-time-type-system.png" alt="Real Time Feedback" style="width:60%; height:60%;">
+    <img src="../img/it-depends/real-time-type-system.png" alt="Real Time Feedback" style="width:80%; height:80%;">
 </div>
 
 As you can see, the transpiler is able to do type checking on the fly while coding in real time. It does this every time you save your code, while, in javascript, you must pray and hope that this function works everytime you manually run your code. I'm certain that somewhere in Human-Computer Interface aspects of programming, this fast feedback system is ideal for developer productivity.
