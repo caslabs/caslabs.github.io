@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/the-eighth-eicon/littlebluedot.png
+image: img/the-eighth-eicon/littlebluedot.png
 title: "The 8th E-ICON"
 date: 2018
 published: true
