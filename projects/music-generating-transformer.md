@@ -15,7 +15,9 @@ labels:
 summary: "A Classical Musical AI Composer that I've designed in AI4ALL."
 ---
 
-<img class="img-fluid" src="../img/music-generating-transformer/music-generating-transformer.png">
+<div style="text-align: center;">
+<img class="img-fluid" src="../img/music-generating-transformer/language-problem.png">
+</div>
 
 For our AI4ALL cohort program, my colleagues and mentor orchestrated a Music Transformer AI system, aimed at generating music using deep learning techniques. The generative AI project is built upon a transformer-based architecture for musical generation and is trained on the Maestro v3 dataset. We have also programmed a series of supplementary Jupyter notebooks to provide an in-depth understanding of our thought process and methodology to how we can generate music using natural language processing methodologies. We've implemented the Transformer-XL architecture that treated music generation as a language problem, where we perceive musical notes as a natural language, to which we can predict the next sequence of words to generate a musical piece.
 

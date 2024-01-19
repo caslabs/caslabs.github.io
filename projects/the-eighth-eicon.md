@@ -13,7 +13,9 @@ labels:
 summary: "International Winner."
 ---
 
+<div style="text-align: center;">
 <img class="img-fluid" src="../img/the-eighth-eicon/award.jpg">
+</div>
 
 **A joint South Korea-USA team takes top prize at 8th e-ICON World Contest for the development of a brilliant augmented reality app.  The e-ICON contest brought teams together from all over the world to participate, challenging students to create educational mobile apps as tools to achieve United Nations' Sustainable Development Goals**
 

@@ -14,7 +14,9 @@ labels:
 summary: "Cofounded a B2B AI-driven accessibility healthcare startup."
 ---
 
+<div style="text-align: center;">
 <img class="img-fluid" src="../img/cairtext.com/cairtext.png">
+</div>
 
 My fellow founders and I co-founded a NLP (Natural Language Processing) AI healthcare accessibility startup that connects patients with their healthcare providers in a simple intuitive manner that gained traction of over 1000+ unique visitors in a two-day time frame. We've orchested the concept and executed with a robust full stack application that allows users to communicate with their health care providers via a seemingless SMS and Web App pipeline. We've sstablished LEAN principles, rapidly launched a B2B SaaS product tailored for local healthcare providers, and participated in a pitch deck to 100+ people and healthcare companies. cairtext.com, built with [Node.js](https://nodejs.org/en/), [Firebase Firestore](https://firebase.google.com/docs/firestore), [Twilio](https://www.twilio.com/en-us), and deployed to [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
