@@ -21,9 +21,11 @@ My fellow founders and I co-founded a NLP (Natural Language Processing) AI healt
   src="../img/cairtext.com/founders-photo.png">
 </div>
 
-I served as the technical co-founder of our startup, where I was the lead engineer that orchestrated the live web services for this startup. I was responsible of leading my other fellow technical co-founder to build and launch cairtext.com into the interwebs, and injecting data analytics and signs ups for potential users of our targeted market. I've designed and implemented our semi-automated two way messaging system for healthcare providers and envision its implementation with artificial intelligence in the communication pipeline.
 
 
+I served as the technical co-founder of our startup (thats me on the far left) of our founders photo, where I was the lead engineer that orchestrated the live web services for this startup. I was responsible of leading my other fellow technical co-founder to build and launch cairtext.com into the interwebs, and injecting data analytics and signs ups for potential users of our targeted market. With my technical knowledge, we've gotten over thousands of visitors into our site, and as well as a few dozens of sign ups of our startup idea.
+
+For our minimum viable product, I've designed and implemented our semi-automated two way messaging system for healthcare providers and envision its implementation with AI in the communication pipeline, to provide productive tooling services for healthcare providers.
 
 As we believed a messaging platform that can be trustworthy, intuitive, confidential, and easily customizable to meet the specific needs of your practice.
 
