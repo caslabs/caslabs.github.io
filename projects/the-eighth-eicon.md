@@ -30,4 +30,4 @@ I was the team lead and project manager for this competition. I orchestrated the
 Throughout this gruelling process, I learned more about emphasis of execution from an idea. There were projects that my competitors have built that had great idea, but failed the execution part of the competition. Usually for a great execution, one must have a great team to orchestrate that process. This involves an alignment of vision and understanding your team members, and let them do the part of which they are madly passionate about.
 
 
-Source: <a href="https://github.com/caslabs/8th-E-Icon">Augmented Science</a>
+View Source On Github: <a href="https://github.com/caslabs/8th-E-Icon">Augmented Science</a>

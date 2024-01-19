@@ -20,4 +20,4 @@ I served as the technical co-founder of our startup, where I was the lead engine
 
 During this experience, I learned the naunces of being within the tech startup ecosystem. It is the result of naturally having a problem within your field of work, and designign a solution to such problem, and figuring out a business model of that solution. As a technical co-founder, I've often have to translate our software system to the general audiences, allowing the understandment of our vision. I learned how to accumlate a mass of users, and market software correctly.
 
-Source: <a href="https://github.com/caslabs/8th-E-Icon">Augmented Science</a>
+View Source On Github: <a href="https://github.com/caslabs/cAIrrier">cairtext</a>
