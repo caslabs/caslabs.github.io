@@ -8,6 +8,8 @@ published: true
 labels:
   - Natural Language Processing
   - AI
+  - Javascript
+  - Fullstack
   - Healthcare
 summary: "Cofounded a B2B AI-driven accessibility healthcare startup."
 ---

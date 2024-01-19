@@ -9,6 +9,8 @@ labels:
   - AI4ALL
   - Deep Learning
   - NLP
+  - PyTorch
+  - Python
   - Generative AI
 summary: "A Classical Musical AI Composer that I've designed in AI4ALL."
 ---
