@@ -80,12 +80,6 @@
   ],
   "awards": [
     {
-      "title": "NASA IRTF Selection Award",
-      "date": "2018",
-      "awarder": "NASA IRTF",
-      "summary": "Awarded for significant achievements and contributions."
-    },
-    {
       "title": "Hack4theSea Hackathon Winner",
       "date": "2019",
       "awarder": "Hack4theSea",
@@ -96,6 +90,12 @@
       "date": "2017",
       "awarder": "e-ICON World Contest",
       "summary": "Won 1st Place in an international technology and innovation contest."
+    },
+    {
+      "title": "NASA IRTF Selection Award",
+      "date": "2018",
+      "awarder": "NASA IRTF",
+      "summary": "Awarded for significant achievements and contributions."
     },
     {
       "title": "AFA CyberPatriot Gold Tier",
