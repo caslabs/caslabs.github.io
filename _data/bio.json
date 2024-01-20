@@ -81,26 +81,26 @@
   "awards": [
     {
       "title": "Hack4theSea Hackathon Winner",
-      "date": "2019",
+      "date": "2018",
       "awarder": "Hack4theSea",
       "summary": "Secured 1st Place in a marine-themed hackathon competition."
     },
     {
       "title": "e-ICON World Contest Winner",
-      "date": "2017",
-      "awarder": "e-ICON World Contest",
+      "date": "2018",
+      "awarder": "Korea Ministry of Education",
       "summary": "Won 1st Place in an international technology and innovation contest."
     },
     {
       "title": "NASA IRTF Selection Award",
       "date": "2018",
-      "awarder": "NASA IRTF",
-      "summary": "Awarded for significant achievements and contributions."
+      "awarder": "Maunakea Scholars",
+      "summary": "Awarded Research Time for the NASA Infrared Telescope for my research in near-earth asteroid and artificial intelligence integration"
     },
     {
       "title": "AFA CyberPatriot Gold Tier",
-      "date": "2018",
-      "awarder": "AFA CyberPatriot",
+      "date": "2017",
+      "awarder": "Air Force Association ",
       "summary": "Achieved Gold Tier status in a national cybersecurity competition."
     }
   ],
