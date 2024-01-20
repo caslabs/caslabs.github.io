@@ -14,7 +14,7 @@ labels:
     <img src="../img/an-unstable-future/chaos-bw.jpg" alt="An metaphor to chaos theory" style="width:30%; height:30%;">
 </div>
 
-The Lorenz equations are deterministic, given initial conditions and parameters, it is, in theory, allow us to predict the future behavior of the system. Deterministic as it is, these simple rules and equations often creates the emergence of complexity, and such system is impossible to predict due to the extreme sensestivity to the initial conditions. Hence, emergence.
+The Lorenz equations are deterministic, given initial conditions and parameters, it is, in theory, allow us to predict the future behavior of the system. Deterministic as it is, these simple rules and equations often creates the characteristics of complexity, and such system is impossible to predict due to the extreme sensestivity to the initial conditions. Hence, emergence.
 
 First and foremost, I was dead certain about entering the tech industry ever since I was in middle school. Though, originally, I envision myself as working in an atypical office from an atypical company, and my first vision was being some sort of office worker working on a calculator software making around $70k yearly. Boring as it sounds, that is what I've been taught what programming was when I first started. Now, it's one of the most chaotic and money-making industry in the world, wide ranging from artificial intelligence, video games, and web applications. Throughout my high school, I was, obsess about entering big tech, as my dreams of working in Google and Facebook would solidify of being amongst my people that I relate to the most. I didn't care about the money or the prestige of the company, I just wanted **friends** that understood me.
 
