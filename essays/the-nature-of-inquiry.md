@@ -90,7 +90,7 @@ With our illustration of the key principles of outlined by ERB above, we will ex
 **Question:** The question at hand involves a programmer encountering issues while porting an old game engine to iOS and tvOS. Specifically, the game renders correctly on an iPad Air 2 and Apple TV, but not on an iPhone X.
 
 <div style="text-align: center;">
-    <img src="../img/the-nature-of-inquiry.png" alt="Screenshot of the Smart Question" style="width:50%; height:50%;">
+    <img src="../img/the-nature-of-inquiry/smart_question.png" alt="Screenshot of the Smart Question" style="width:50%; height:50%;">
 </div>
 
 **Why It's Smart:** This question aligns with its ERB's principles. There are many signals such as [1] Meaningful, Specific Subject Headers: The question targets a specific issue and system – rendering problems on different iOS devices. [2] Precision and Information - the query provides specific details about devices, OS versions, and observed behaviors. [10] Goal Description - The overall objective of solving the rendering issue is clear, as the programmer is porting a game engine to iOS and tvOS devices. Can you spot many more good signals as well?
