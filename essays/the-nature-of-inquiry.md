@@ -98,9 +98,17 @@ With our illustration of the key principles of outlined by ERB above, we will ex
 
 #### Not Smart Question
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae suscipit tellus mauris a diam maecenas sed. Elementum nibh tellus molestie nunc non blandit massa enim. Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Semper eget duis at tellus at. Libero enim sed faucibus turpis in. Vitae aliquet nec ullamcorper sit amet. Velit ut tortor pretium viverra suspendisse potenti nullam. Est lorem ipsum dolor sit amet consectetur adipiscing. Nunc pulvinar sapien et ligula ullamcorper. Vitae et leo duis ut. Nec ultrices dui sapien eget mi proin sed libero enim. Est velit egestas dui id ornare arcu. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Sit amet justo donec enim. Faucibus turpis in eu mi.
+**Link:** [How do I program frames?](https://stackoverflow.com/questions/4295470/how-do-i-program-frames/4299985#4299985)
 
-Mattis aliquam faucibus purus in. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Laoreet id donec ultrices tincidunt arcu non sodales neque sodales. Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Ipsum faucibus vitae aliquet nec ullamcorper sit. Aliquam vestibulum morbi blandit cursus risus at ultrices. Velit scelerisque in dictum non consectetur a. A pellentesque sit amet porttitor eget dolor. Sit amet risus nullam eget felis. Ultricies lacus sed turpis tincidunt id aliquet risus. Duis ut diam quam nulla porttitor massa id. Commodo odio aenean sed adipiscing diam donec adipiscing tristique.
+**Question:** The question at hand involves a programmer encountering issues with the Roblox Game Engine. It seems the programmer wants to implement a particular mechanic but does not know what APIS to utilize.
+
+
+<div style="text-align: center;">
+    <img src="../img/the-nature-of-inquiry/not_smart_question.png" alt="Screenshot of the Smart Question" style="width:50%; height:50%;">
+</div>
+
+**Why It's not Smart:** This question its quite a contradiction to ERB's principles. There are many red flags such as [4] Be Precise and Informative: The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
+
 
 
 ### Evaluation
