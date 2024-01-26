@@ -13,11 +13,12 @@ labels:
     <img src="../img/the-nature-of-inquiry/wheel.png" alt="The Wheel Technology" style="width:30%; height:30%;">
 </div>
 
-The nature of thought is quite a fascinating pursuit. We, by definition, are animals that attend to exploit and seek information regarding about everything and anything within the bounds of our senses. We seek truth about everything. Such process involves the manipulation and analysis of information received from the environment. How did the first invention of fire begin to atone? How did the first scientist purposed the idea of gravity? How How did the first philosopher contemplate the nature of existence?
+
+The nature of inquiry is quite a fascinating pursuit. We, by definition, are animals that attend to exploit and seek information regarding about everything and anything within the bounds of our senses. We seek truth about everything. Such process involves the manipulation and analysis of information received from the environment. How did the first invention of fire begin to atone? How did the first scientist purposed the idea of gravity? How How did the first philosopher contemplate the nature of existence? Alas,
 
 How did the first software engineer, after creating a bug, decide to call it a 'feature' and not just an 'unplanned feature of surprise'?
 
-Fascinating as these obtainment entails, such reach is bounded by the nature of the inquiry itself. That is, we inquiries we purpose often entails fundamental characteristics and approaches used in seeking knowledge, understanding, or information of a domain or phenomenon. Such questions often entails quality information that directly lead to such invention. They asked high-quality questions to which compounds to high-quality solutions.
+Fascinating as these inquiries entails, such reach is bounded by the nature of the inquiry itself. That is, our inquiries we purpose often entails fundamental characteristics and methodologies used in seeking such information in any domain or phenomenon in our lives. Such questions often entails quality information that directly lead to such invention. Often times, high-quality questions results to high-quality solutions.
 
 ### The Methodological Approach for Software Engineers
 
