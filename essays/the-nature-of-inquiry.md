@@ -104,7 +104,7 @@ With our illustration of the key principles of outlined by ERB above, we will ex
 
 
 <div style="text-align: center;">
-    <img src="../img/the-nature-of-inquiry/not_smart_question.png" alt="Screenshot of the Smart Question" style="width:50%; height:50%;">
+    <img src="../img/the-nature-of-inquiry/not_smart_question.png" alt="Screenshot of a Not Smart Question" style="width:50%; height:50%;">
 </div>
 
 **Why It's not Smart:** This question its quite a contradiction to ERB's principles. There are many red flags such as [4] Be Precise and Informative: The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
