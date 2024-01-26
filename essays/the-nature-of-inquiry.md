@@ -24,10 +24,13 @@ Alas,
 
 Fascinating as these inquiries entails, such reach is bounded by the nature of the inquiry itself. That is, our inquiries we purpose, often entails some sort of fundamental characteristics and methodologies used in seeking such information in any domain or phenomenon in the first place.
 
-### The Methodological Approach of Inquiries for Software Engineers
+### The Social Etiquette of a Hacker
 
-Akin to how scientific inquiry relies on empirical methods, observations, and experiments, and philosophical inquiry focusing more on logical reasoning and conceptual analysis. Us, software engineers, have our own rigorous methodology to crafting our own nature of inquiries. One approach is grounded by the principles by ESR, or, should I say, the one and only, Eric Steven Raymond, a prominent programmer during the early days of CS, known for his literature work in software engineering and open source, The Cathedral and the Bazaar. He's quite known within the CS lore, and an exemplar that all aspiring software engineers should look up too. Throughout his experiences in software and collaboration, he purposes a series of premises of the nature of software engineering inquiries, or should ERB empahsizes, *the social etiquette of a hacker*. ESR has full in-depth principles in his blog. For a full analysis, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
+Akin to how scientific inquiry relies on empirical methods, observations, and experiments, and philosophical inquiry focusing more on logical reasoning and conceptual analysis. Us, software engineers, have our own rigorous methodology to crafting our own nature of inquiries. One approach is grounded by the principles by ESR, or, should I say, the one and only, Eric Steven Raymond, a prominent programmer during the early days of CS, known for his literature work in software engineering and open source, The Cathedral and the Bazaar. He's quite known within the CS lore, and an exemplar that all aspiring software engineers should look up too. Throughout his experiences in software and collaboration, he purposes a series of premises of the nature of software engineering inquiries, or should ESR empahsizes, *the social etiquette of a hacker*. ESR has full in-depth principles in his blog. For a full analysis, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
 Here, I attempt to compress key principles and properties directly into formulating an influential "smart" question:.
+
+#### The Methodological Approach of Inquiries for Software Engineers
+
 
 1. **Meaningful, Specific Subject Headers:** Design descriptive and technical subject lines for clear engagement. You are enganging with community of domain-expertise and technical audiences, not a general audiences. Try be specific and direct as possible.
 
@@ -38,7 +41,7 @@ Here, I attempt to compress key principles and properties directly into formulat
 3. **Accessible, Standard Formats:** Accessible, Standard Formats: Use standard, widely accessible formats for your queries. Try to strive for direct code blocks and not screenshots of your image. Try not to induce more artificial complexity for your reader.
 
 
-4. **Be Precise and Informative:** Clearly and accurately describe your problem. ERB goes in depth to such design, but all questions and your attempts to solve such problem should be very detailed and descriptive.
+4. **Be Precise and Informative:** Clearly and accurately describe your problem. ESR goes in depth to such design, but all questions and your attempts to solve such problem should be very detailed and descriptive.
 
 
 5. **Volume is Not Precision:**  Be concise and focused rather than overly verbose. Don't send ~500 lines of code to your questions, only focus on the root cause of such code file. Which piece of code is causing such error?
@@ -79,11 +82,11 @@ Here, I attempt to compress key principles and properties directly into formulat
 
 17. **Follow-Up on Solutions:** Share your solution and thanks to those who helped! Help contribute to the never-ending open source community ecosystem, and those who will encounter a smiliar situation as yours in the future.
 
-Again, for a full detailed analysis and explantation per principles as outlined by ERB, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). There's other principles ERB goes over beyond just the formulation of the inquiry, such as choosing the right community and various examples of "smart" and "not smart" questions, which is equally important for formulating a smart question as well.
+Again, for a full detailed analysis and explantation per principles as outlined by ESR, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). There's other principles ESR goes over beyond just the formulation of the inquiry, such as choosing the right community and various examples of "smart" and "not smart" questions, which is equally important for formulating a smart question as well.
 
 ### Concrete Examples
 
-With our illustration of the key principles of outlined by ERB above, we will examine concrete examples, or real case studies, that are found within StackOverFlow, a promiment open source community in which thousands of programmers and engineers-alike come to purpose and provide solutions to the never ending cycle of open source software ecosystem:
+With our illustration of the key principles of outlined by ESR above, we will examine concrete examples, or real case studies, that are found within [Stackoverflow](https://stackoverflow.com/), a promiment open source community in which thousands of programmers and engineers-alike come to participate to the never ending cycle of open source software and hacker ecosystem!
 
 #### Smart Question
 
@@ -98,8 +101,13 @@ With our illustration of the key principles of outlined by ERB above, we will ex
 
 
 
-**Why It's Smart:** This question aligns with its ERB's principles. There are many signals such as [1] Meaningful, Specific Subject Headers: The question targets a specific issue and system – rendering problems on different iOS devices. [2] Precision and Information - the query provides specific details about devices, OS versions, and observed behaviors. [10] Goal Description - The overall objective of solving the rendering issue is clear, as the programmer is porting a game engine to iOS and tvOS devices. Can you spot many more good signals as well?
+**Why It's Smart:** This question aligns with its ESR's principles. There are many signals such as [1] Meaningful, Specific Subject Headers: The question targets a specific issue and system – rendering problems on different iOS devices. [2] Precision and Information - the query provides specific details about devices, OS versions, and observed behaviors. [10] Goal Description - The overall objective of solving the rendering issue is clear, as the programmer is porting a game engine to iOS and tvOS devices. Can you spot many more good signals as well?
 
+<div style="text-align: center;">
+    <img src="../img/the-nature-of-inquiry/proper_hacker.png" alt="The author purposes [17] Follow Up Solutio!" style="width:50%; height:50%;">
+</div>
+
+The programmer even provided a follow-up solution to their problem in question! This satifies [17] Follow-Up on Solution. This component is proper hacker etiquette to help those who will face a smiliar situation as yours in the future, and to help contribute to the never-ending productive open-source ecosystem!
 
 #### Not Smart Question
 
@@ -115,7 +123,7 @@ With our illustration of the key principles of outlined by ERB above, we will ex
 
 
 
-**Why It's not Smart:** This question its quite a contradiction to ERB's principles. There are many red flags such as [4] Be Precise and Informative: The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
+**Why It's not Smart:** This question its quite a contradiction to ESR's principles. There are many red flags such as [4] Be Precise and Informative: The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
 
 
 
