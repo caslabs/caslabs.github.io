@@ -2,10 +2,11 @@
 layout: essay
 type: essay
 title: "The Nature of Inquiry"
-date: 2024-01-18
+date: 2024-01-24
 published: true
 labels:
   - Software Engineering
+  - Collaboration
 ---
 
 <div style="text-align: center;">
