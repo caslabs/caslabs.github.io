@@ -81,7 +81,7 @@ Again, for a full detailed analysis and explantation per principles as outlined 
 
 ### Concrete Examples
 
-With our illustration of the key principles of outlined by ERB above, we will examine concrete examples, or real case studies, that are found within StackOverFlow, a promiment open source community which in which thousands of programmers and engineers-alike come to purpose and provide solutions to the never ending open source software ecosystem:
+With our illustration of the key principles of outlined by ERB above, we will examine concrete examples, or real case studies, that are found within StackOverFlow, a promiment open source community in which thousands of programmers and engineers-alike come to purpose and provide solutions to the never ending cycle of open source software ecosystem:
 
 #### Smart Question
 
