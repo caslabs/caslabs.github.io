@@ -101,7 +101,7 @@ With our illustration of the key principles of outlined by ESR above, we will ex
 
 
 
-**Why It's Smart:** This question aligns with its ESR's principles. There are many signals such as [1] Meaningful, Specific Subject Headers: The question targets a specific issue and system – rendering problems on different iOS devices. [2] Precision and Information - the query provides specific details about devices, OS versions, and observed behaviors. [10] Goal Description - The overall objective of solving the rendering issue is clear, as the programmer is porting a game engine to iOS and tvOS devices. Can you spot many more good signals as well?
+**Why It's Smart:** This question aligns with its ESR's principles. There are many signals such as [1] Meaningful, Specific Subject Headers - The question targets a specific issue and system – rendering problems on different iOS devices. [2] Precision and Information - the query provides specific details about devices, OS versions, and observed behaviors. [10] Goal Description - The overall objective of solving the rendering issue is clear, as the programmer is porting a game engine to iOS and tvOS devices. Can you spot many more good signals as well?
 
 <div style="text-align: center;">
     <img src="../img/the-nature-of-inquiry/proper_hacker.png" alt="The author purposes [17] Follow Up Solutio!" style="width:50%; height:50%;">
@@ -123,10 +123,13 @@ The programmer even provided a follow-up solution to their problem in question! 
 
 
 
-**Why It's not Smart:** This question its quite a contradiction to ESR's principles. There are many red flags such as [4] Be Precise and Informative: The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
+**Why It's not Smart:** This question its quite a contradiction to ESR's principles. There are many red flags such as [4] Be Precise and Informative - The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
 
 
 
 ### Evaluation
 
 We, software engineers, have our own rigorous methodology to crafting our nature of inquiries. We tend to craft our inquiries to maximize producitive output, akin to how scientist utilize their own methodology to produce productive results, or how and historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset. By adopting established guidelines like those set forth by Eric S. Raymond, to which, high-quality questions results in high-quality solutions, making us more pragmatic and productive when engineering software systems.
+
+
+Note: ChatGPT assisted with the summarization of [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
