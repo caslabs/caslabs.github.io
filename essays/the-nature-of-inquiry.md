@@ -14,6 +14,8 @@ labels:
 </div>
 
 
+
+
 The nature of inquiry is quite a fascinating pursuit. We, by definition, are animals that attend to exploit and seek information regarding about everything and anything within the bounds of our senses. We seek truth about everything. Such process involves the manipulation and analysis of information received from the environment. How did the first invention of fire begin to atone? How did the first scientist purposed the idea of gravity? How How did the first philosopher contemplate the nature of existence? Alas,
 
 How did the first software engineer, after creating a bug, decide to call it a 'feature' and not just an 'unplanned feature of surprise'?
@@ -75,7 +77,7 @@ Here, I attempt to compress key principles and properties directly into formulat
 
 17. **Follow-Up on Solutions:** Share your solution and thanks to those who helped! Help contribute to the never-ending open source community ecosystem, and those who will encounter a smiliar situation as yours in the future.
 
-Again, for a full detailed analysis and explantation per principles as outlined by ERB, see ERB's blog - [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). There's other principles ERB goes over beyond just the formulation of the inquiry, such as choosing the right community and various examples of "smart" and "not smart" questions, which is equally important for formulating a smart question as well.
+Again, for a full detailed analysis and explantation per principles as outlined by ERB, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). There's other principles ERB goes over beyond just the formulation of the inquiry, such as choosing the right community and various examples of "smart" and "not smart" questions, which is equally important for formulating a smart question as well.
 
 ### Concrete Examples
 
