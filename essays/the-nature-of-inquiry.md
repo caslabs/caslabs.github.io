@@ -27,7 +27,7 @@ Fascinating as these inquiries entails, such reach is bounded by the nature of t
 ### The Social Etiquette of a Hacker
 
 Akin to how scientific inquiry relies on empirical methods, observations, and experiments, and philosophical inquiry focusing more on logical reasoning and conceptual analysis. Us, software engineers, have our own rigorous methodology to crafting our own nature of inquiries. One approach is grounded by the principles by ESR, or, should I say, the one and only, Eric Steven Raymond, a prominent programmer during the early days of CS, known for his literature work in software engineering and open source, The Cathedral and the Bazaar. He's quite known within the CS lore, and an exemplar that all aspiring software engineers should look up too. Throughout his experiences in software and collaboration, he purposes a series of premises of the nature of software engineering inquiries, or should ESR empahsizes, *the social etiquette of a hacker*. ESR has full in-depth principles in his blog. For a full analysis, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
-Here, I attempt to compress key principles and properties directly into formulating an influential "smart" question:.
+Here, I attempt to compress key principles and properties directly into formulating an influential "smart" question
 
 #### The Methodological Approach of Inquiries for Software Engineers
 
