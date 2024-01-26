@@ -113,7 +113,7 @@ The programmer even provided a follow-up solution to their problem in question! 
 
 **Link:** [How do I program frames?](https://stackoverflow.com/questions/4295470/how-do-i-program-frames/4299985#4299985)
 
-**Question:** The question at hand involves a programmer encountering issues with the Roblox Game Engine. It seems the programmer wants to implement a particular mechanic but does not know what APIS to utilize.
+**Question:** The question at hand involves a programmer encountering issues with the Roblox Game Engine. It seems the programmer wants to implement a particular game mechanic but does not know what APIS to utilize within their respective game engine.
 
 
 <div style="text-align: center;">
