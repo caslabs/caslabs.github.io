@@ -91,7 +91,7 @@ Again, for a full detailed analysis and explantation per principles as outlined 
 
 ### Concrete Examples
 
-With our illustration of the key principles of outlined by ESR above, we will examine concrete examples, or real case studies, that are found within [Stackoverflow](https://stackoverflow.com/), a promiment open source community in which thousands of programmers and engineers-alike come to participate to the never ending cycle of open source software and hacker ecosystem!
+With our illustration of the key principles of outlined by ESR above, we will examine concrete examples, or real case studies, that are found within [Stackoverflow](https://stackoverflow.com/), a prominent open source community in which thousands of programmers and engineers-alike come to participate to the never ending cycle of open source software and hacker ecosystem!
 
 #### Smart Question
 
