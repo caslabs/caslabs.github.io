@@ -49,7 +49,7 @@ Now, hailing from the CS industry, my mental models reign down to adapting to th
 
 ## Typescript > Javascript
 
-Now, I've been exposed to industry CS, and I would say that most software engineers, when building complex and large-scale software with hundreds to thousands of engineers like you and me, would often pick a programming language that is naturally aligned with the task at hand. Since most of the modern web systems are inherently complex, this calls for a revamp of JavaScript, which evolved to be Typescript, a superset of JavaScript, that is run through a source-to-source compiler. It was meant to be a solution that Javascript lacked, and a paint point that all engineers faced when building industry-level codebase. Now, does that imply that all web-related software systems should be written in Typescript?
+Now, I've been exposed to industry CS, and I would say that most software engineers, when building complex and large-scale software with hundreds to thousands of engineers like you and me, would often pick a programming language that is naturally aligned with the task at hand. Since most of the modern web systems are inherently complex, this calls for a revamp of JavaScript, which evolved to be Typescript, a superset of JavaScript, that is run through a source-to-source compiler. It was meant to be a solution that Javascript lacked, and a pain point that all engineers faced when building industry-level codebase. Now, does that imply that all web-related software systems should be written in Typescript?
 
 ### It Depends.
 
