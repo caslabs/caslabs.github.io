@@ -43,7 +43,7 @@ Here, I attempt to compress key principles and properties directly into formulat
 2. **Clear, Grammatical Language:** Write questions in well-structured, correct grammar. Hacker-lingo is appropiate, but be professional when converying a question to your best abilities.
 
 
-3. **Accessible, Standard Formats:** Accessible, Standard Formats: Use standard, widely accessible formats for your queries. Try to strive for direct code blocks and not screenshots of your image. Try not to induce more artificial complexity for your reader.
+3. **Accessible, Standard Formats:** Use standard, widely accessible formats for your queries. Try to strive for direct code blocks and not screenshots of your image. Try not to induce more artificial complexity for your reader.
 
 
 4. **Be Precise and Informative:** Clearly and accurately describe your problem. ESR goes in depth to such design, but all questions and your attempts to solve such problem should be very detailed and descriptive.
