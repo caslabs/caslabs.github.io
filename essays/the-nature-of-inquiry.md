@@ -24,6 +24,11 @@ Alas,
 
 Fascinating as these inquiries entails, such reach is bounded by the nature of the inquiry itself. That is, our inquiries we purpose, often entails some sort of fundamental characteristics and methodologies used in seeking such information in any domain or phenomenon in the first place.
 
+I remember when I first learned about programming, I would often send screenshots of my code and blabber on to my friends as to why this code is breaking the entire system! I would send memes as apart of my inquiry process, sending a sad cat picture as a direct call for help and a big blob of information represented as a screenshot of a vague code block, and assumed for a solution. Nevertheless, this was a time-critical question, as this very code block is due less than an hour!
+
+Reflecting back, I suppose this is the typical pipeline that all beginner programmers face. The chaotic dance of navigating and handling the many n-th problems when engineering software systems. These little naunces like 'asking the right question' are often a big learning moment to being a competent software engineer. Nowadays, I am currently serving as a Software Engineer Research Content Developer, and apart of my process is to think of software systems as a very big complex system. And within that process, is to how inquiries are formulated, addressed, and resolved when engineering a system.
+
+
 ### The Social Etiquette of a Hacker
 
 Akin to how scientific inquiry relies on empirical methods, observations, and experiments, and philosophical inquiry focuses more on logical reasoning and conceptual analysis. We, software engineers, have a rigorous methodology for crafting our nature of inquiries. One approach is grounded by the principles of ESR, or, should I say, the one and only, Eric Steven Raymond, a prominent programmer during the early days of CS, known for his literature work in software engineering and open source, The Cathedral and the Bazaar. He's quite well known within the CS lore and an exemplar that all aspiring software engineers should look up to. Throughout his experiences in software and collaboration, he proposes a series of premises of the nature of software engineering inquiries, or should ESR emphasize, *the social etiquette of a hacker*. ESR has full in-depth principles in his blog.  For a full analysis, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
@@ -140,4 +145,4 @@ We went over the red flags we've analyzed from the original question, highlighte
 We, software engineers, have a rigorous methodology for crafting our nature of inquiries. We tend to craft our inquiries to maximize productive output, akin to how scientist utilize their methodology to produce productive results, or how historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset. By adopting established guidelines like those set forth by Eric S. Raymond, high-quality questions result in high-quality solutions, making us more pragmatic and productive when engineering software systems.
 
 
-Note: ChatGPT assisted with the summarization of [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
+Note: ChatGPT assisted with the summarization of [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) and the filteration process between smart and not-smart questions.
