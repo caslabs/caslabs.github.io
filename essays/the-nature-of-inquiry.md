@@ -25,6 +25,7 @@ Alas,
 
 It begins with an inquiry.
 
+
 Fascinating as these inquiries entails, such reach is bounded by the nature of the inquiry itself. That is, our inquiries we purpose, often entails some sort of fundamental characteristics and methodologies used in seeking such information in any domain or phenomenon in the first place.
 
 I remember when I first learned about programming, I would often send screenshots of my code and blabber on to my friends as to why this code is breaking the entire system! I would send memes as apart of my inquiry process, sending a sad cat picture as a direct call for help and a big blob of information represented as a screenshot of a vague code block, and assumed for a solution. Nevertheless, this was a time-critical question, as this very code block is due less than an hour! Evensomore, i continued such practices in my first software engineering internship!
