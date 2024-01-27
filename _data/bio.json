@@ -61,7 +61,7 @@
       "endDate": "Present",
       "summary": "Commandeering a team to craft and convey inspiring Software Engineering research content",
       "highlights": [
-        "Conveying Software Engineer research content, inspiring high school students towards scientific careers and academia, championing diversity and educational equality in STEM"
+        "Conveying Software Engineering research content, inspiring high school students towards scientific careers and academia, championing diversity and educational equality in STEM"
       ]
     },
     {
@@ -82,7 +82,7 @@
       "location": "Honolulu HI",
       "startDate": "2019-07-01",
       "endDate": "2019-09-01",
-      "summary": "Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities.",
+      "summary": "Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities",
       "highlights": [
         "Architected a data-driven market research Web App system using React for front-end, with Firebase/Python/Node.js back-end automating data collection via Selenium web scraping",
         "Assisted startup workshops for 25+ Hawai’i indigenous founders of the 2019 cohort to kickstart tech entrepreneurship deeply rooted in Aloha ʻĀina, using technology to innovate community development, agriculture, and green energy"
@@ -94,13 +94,13 @@
       "title": "Hack4theSea Hackathon Winner",
       "date": "2018",
       "awarder": "Hack4theSea",
-      "summary": "Secured 1st Place in a marine-themed hackathon competition."
+      "summary": "Secured 1st Place in a marine-themed hackathon competition"
     },
     {
       "title": "The 8th e-ICON World Contest Winner",
       "date": "2018",
       "awarder": "Korea Ministry of Education",
-      "summary": "Won 1st Place in an international technology and innovation contest."
+      "summary": "Won 1st Place in an international technology and innovation contest"
     },
     {
       "title": "NASA IRTF Recipient",
@@ -112,7 +112,7 @@
       "title": "AFA CyberPatriot Gold Tier",
       "date": "2017",
       "awarder": "Air Force Association ",
-      "summary": "Achieved Gold Tier status in a national cybersecurity competition."
+      "summary": "Achieved Gold Tier status in a national cybersecurity competition"
     }
   ],
   "references": [
