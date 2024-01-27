@@ -79,7 +79,7 @@ Here, I attempt to compress key principles and properties directly into formulat
 14. **Prune Pointless Queries:** Avoid unnecessary additions to your question (e.g, "Can anyone help me?") in the end of the question. State the problem via the principles outlined here and pray you'll get a response!
 
 
-15. **Avoid "Urgent" Tags:**Don’t pressure the readers with urgency. Never formulate a question as a time-sensitive question.
+15. **Avoid "Urgent" Tags:** Don’t pressure the readers with urgency. Never formulate a question as a time-sensitive question.
 
 
 16. **Courtesy Helps:**  Politeness can improve response quality. When in doubt, always end with a "Thank you for your time", to respect the time and effort the community is providing you with.
