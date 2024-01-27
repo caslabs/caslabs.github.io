@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["SQL", "Rust", "Typescript", "Python", "React"]
+      "keywords": ["SQL", "Rust", "Typescript", "Python", "React", "PyTorch", "Scikit-Learn", "Pandas", "Numpy"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords":  ["Git", "AWS", "VSCode", "Jupyter Notebooks", "Jira", "Gitlabs", "Linux", "Docker", "React"]
+      "keywords":  ["Git", "AWS", "VSCode", "Jupyter Notebooks", "Jira", "Gitlabs", "Linux", "Docker", "Kubernetes"]
     }
   ],
   "education": [
@@ -57,7 +57,9 @@
       "startDate": "2023-11-01",
       "endDate": "Present",
       "summary": "Devised a Software Engineering curriculum focusing on theoretical foundations and advanced methodologies. Crafted and conveyed inspiring Software Engineering research content.",
-      "highlights": []
+      "highlights": [
+        "Conveying Software Engineer research content, inspiring high school students towards scientific careers and academia, championing diversity and educational equality in STEM"
+      ]
     },
     {
       "company": "Kuure",
@@ -66,7 +68,10 @@
       "startDate": "2019-09-01",
       "endDate": "2019-11-01",
       "summary": "Restructured e-commerce webpages, optimizing performance. Engaged in code sprints and agile methodology, contributing to the development pipeline.",
-      "highlights": []
+      "highlights": [
+        "Restructured e-commerce webpages from Wix to MERN Stack with Redux in Typescript and Sass, optimizing page speed by 10% along with responsive web design",
+        "Communicated in bi-weekly code reviews, stand-ups, and requirements document to discuss development build"
+      ]
     },
     {
       "company": "Purple Ma’ia Indigenous Accelerator",
@@ -75,7 +80,10 @@
       "startDate": "2019-07-01",
       "endDate": "2019-09-01",
       "summary": "Architected a data-driven market research system. Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities.",
-      "highlights": []
+      "highlights": [
+        "Architected a data-driven market research Web App system using React for front-end, with Firebase/Python/Node.js back-end automating data collection via Selenium web scraping",
+        "Assisted startup workshops for 25+ Hawai’i indigenous founders of the 2019 cohort to kickstart tech entrepreneurship deeply rooted in Aloha ʻĀina, using technology to innovate community development, agriculture, and green energy"
+      ]
     }
   ],
   "awards": [
@@ -86,13 +94,13 @@
       "summary": "Secured 1st Place in a marine-themed hackathon competition."
     },
     {
-      "title": "e-ICON World Contest Winner",
+      "title": "The 8th e-ICON World Contest Winner",
       "date": "2018",
       "awarder": "Korea Ministry of Education",
       "summary": "Won 1st Place in an international technology and innovation contest."
     },
     {
-      "title": "NASA IRTF Selection Award",
+      "title": "NASA IRTF Recipient",
       "date": "2018",
       "awarder": "Maunakea Scholars",
       "summary": "Awarded Research Time for the NASA Infrared Telescope for my research in near-earth asteroid and artificial intelligence integration"
