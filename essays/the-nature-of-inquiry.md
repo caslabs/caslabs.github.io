@@ -144,7 +144,7 @@ We went over the red flags we've analyzed from the original question, highlighte
 
 We, software engineers, have a rigorous methodology for crafting our nature of inquiries. We tend to craft our inquiries to maximize productive output, akin to how scientist utilize their methodology to produce productive results, or how historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset.
 
-When I was firsted about ERB's Smart Question Principles, I was quite ammused how deep the meta-process goes when doing software engineering. It's not just desinging and engineering software, but how to collaborate efficitevely during such technical process. It's one of those 'people skills' that fosters productivity and collaboration in a software project.
+When I was first learned about ERB's Smart Question Principles, I was quite ammused how deep the meta-process goes when doing software engineering. It's not just desinging and engineering software, but how to collaborate efficitevely during such technical process. It's one of those 'people skills' that fosters productivity and collaboration in a software project.
 
 
 By adopting established guidelines like those set forth by Eric S. Raymond, we generate high-quality questions that will result in high-quality solutions, making us more pragmatic and productive when engineering large and complex software systems.
