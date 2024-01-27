@@ -137,12 +137,17 @@ The programmer even provided a follow-up solution to their problem in question! 
 </div>
 
 
-We went over the red flags we've analyzed from the original question, highlighted the contradictions as outlined by ERB's Smart Questions principles, and transformed this not-so-smart question into a very direct and clear question that technical readers can digest and solve smoothly. We've clarified the game engine and programming language in question for context, we've stated the overall objective of the problem (the author is enhancing user experience in his game), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity between the former and ladder? The ladder provides a concise, straightforward and direct inquiry that is more productive to digest for our interested technical readers! We even provided a follow-up solution for our potential future readers, who will, one day, face the same problem as you have!
+We went over the red flags we've analyzed from the original question, highlighted the contradictions as outlined by ERB's Smart Questions principles, and transformed this not-so-smart question into a very direct and clear question that technical readers can digest and solve smoothly. We've clarified the game engine and programming language in question for context, we've stated the overall objective of the problem (the author is enhancing user experience in his game), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity between the former and ladder? The ladder provides a concise, straightforward and direct inquiry that is more productive to digest for our interested technical readers! We even provided a follow-up solution for our potential future readers, who will, one day, face the same problem as you had!
 
 ### Evaluation
 
 
-We, software engineers, have a rigorous methodology for crafting our nature of inquiries. We tend to craft our inquiries to maximize productive output, akin to how scientist utilize their methodology to produce productive results, or how historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset. By adopting established guidelines like those set forth by Eric S. Raymond, high-quality questions result in high-quality solutions, making us more pragmatic and productive when engineering software systems.
+We, software engineers, have a rigorous methodology for crafting our nature of inquiries. We tend to craft our inquiries to maximize productive output, akin to how scientist utilize their methodology to produce productive results, or how historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset.
+
+When I was firsted about ERB's Smart Question Principles, I was quite ammused how deep the meta-process goes when doing software engineering. It's not just desinging and engineering software, but how to collaborate efficitevely during such technical process. It's one of those 'people skills' that fosters productivity and collaboration in a software project.
+
+
+By adopting established guidelines like those set forth by Eric S. Raymond, we generate high-quality questions that will result in high-quality solutions, making us more pragmatic and productive when engineering large and complex software systems.
 
 
 Note: ChatGPT assisted with the summarization of [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) and the filteration process between smart and not-smart questions.
