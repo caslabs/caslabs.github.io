@@ -147,7 +147,7 @@ We, software engineers, have a rigorous methodology for crafting our nature of i
 When I first learned about ERB's Smart Question Principles, I was quite amused by how deep the meta-process goes when doing software engineering. It's not just designing and engineering software, but how to collaborate effectively during such technical processes. It's one of those 'people skills' that fosters productivity and collaboration in a software project.
 
 
-By adopting established guidelines like those set forth by Eric S. Raymond, we generate high-quality questions that will result in high-quality solutions, making us more pragmatic and productive when engineering large and complex software systems.
+By adopting established guidelines like those set forth by Eric S. Raymond, we can generate high-quality questions that will result in high-quality solutions, making us more pragmatic and productive when engineering large and complex software systems.
 
 
 Note: ChatGPT assisted with the summarization of [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) and the filteration process between smart and not-smart questions.
