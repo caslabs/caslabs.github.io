@@ -132,7 +132,7 @@ The programmer even provided a follow-up solution to their problem in question! 
 </div>
 
 
-We went over the red flags what we've analyzed from the original question, and transformed into a very direct and clear question that technical readers can digest and solve smoothly. We clarify the game engine and programming language in question, the overall objective of the problem (enhancing user experience in games), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity, allowing the ladder to be more easier to answer?
+We went over the red flags we've analyzed from the original question, highlighted the contradictions as outlined by ERB's Smart Questions principles, and transformed this not-so-smart question into a very direct and clear question that technical readers can digest and solve smoothly. We've clarified the game engine and programming language in question for context, we've stated the overall objective of the problem (the author is enhancing user experience in his game), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity between the former and ladder? The ladder provides a concise, straightforward and direct inquiry that is more productive to digest and respond for audiences in question.
 
 ### Evaluation
 
