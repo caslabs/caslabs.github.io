@@ -47,8 +47,11 @@
       "location": "Honolulu HI",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "summary": "Coordinated the 2024 AI4ALL Ignite program, managing a session of students to build AI applications, while helping with the AI4ALL instructors executing their curriculum.",
-      "highlights": []
+      "summary": "Coordinated the 2024 AI4ALL Ignite program",
+      "highlights": [
+        "Coordinating 20+ Students to develop AI Projects and fostered an inclusive learning environment",
+        "Fostered an inclusive learning environment through the complexities of AI project development, from conceptualization to execution"
+      ]
     },
     {
       "company": "Sci-MI",
@@ -56,7 +59,7 @@
       "location": "Honolulu HI",
       "startDate": "2023-11-01",
       "endDate": "Present",
-      "summary": "Devised a Software Engineering curriculum focusing on theoretical foundations and advanced methodologies. Crafted and conveyed inspiring Software Engineering research content.",
+      "summary": "Commandeering a team to craft and convey inspiring Software Engineering research content",
       "highlights": [
         "Conveying Software Engineer research content, inspiring high school students towards scientific careers and academia, championing diversity and educational equality in STEM"
       ]
@@ -79,7 +82,7 @@
       "location": "Honolulu HI",
       "startDate": "2019-07-01",
       "endDate": "2019-09-01",
-      "summary": "Architected a data-driven market research system. Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities.",
+      "summary": "Assisted in startup workshops, promoting tech entrepreneurship in indigenous communities.",
       "highlights": [
         "Architected a data-driven market research Web App system using React for front-end, with Firebase/Python/Node.js back-end automating data collection via Selenium web scraping",
         "Assisted startup workshops for 25+ Hawai’i indigenous founders of the 2019 cohort to kickstart tech entrepreneurship deeply rooted in Aloha ʻĀina, using technology to innovate community development, agriculture, and green energy"
