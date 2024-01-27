@@ -16,18 +16,18 @@ labels:
 
 
 
-The nature of inquiry is quite a fascinating pursuit. We, by definition, are animals that explore and exploit information regarding about everything and anything within the bounds of our senses. We seek truth about everything. Such process entails the manipulation and analysis of information that received from the environment. Throughout history, we ask ourselves key-defining questions that progresses our advancement in technology - How did the first invention of fire begin? How did the first scientist purposed the idea of gravity? How did the first philosopher contemplate the nature of existence?
+The nature of inquiry is quite a fascinating pursuit. We, by definition, are animals that explore and exploit information regarding everything and anything within the bounds of our senses. We seek the truth about everything. Such a process entails the manipulation and analysis of information received from the environment. Throughout history, we ask ourselves key-defining questions that progress our advancement in technology - How did the first invention of fire begin? How did the first scientist propose the idea of gravity? How did the first philosopher contemplate the nature of existence?
 
 Alas,
 
-*How did the first software engineer, after creating a bug, decide to call it a 'feature' and not just an 'unplanned feature of surprise'?*
+*How did the first software engineer, after creating a bug, decide to call it a 'feature'?*
 
 Fascinating as these inquiries entails, such reach is bounded by the nature of the inquiry itself. That is, our inquiries we purpose, often entails some sort of fundamental characteristics and methodologies used in seeking such information in any domain or phenomenon in the first place.
 
 ### The Social Etiquette of a Hacker
 
-Akin to how scientific inquiry relies on empirical methods, observations, and experiments, and philosophical inquiry focusing more on logical reasoning and conceptual analysis. Us, software engineers, have our own rigorous methodology to crafting our own nature of inquiries. One approach is grounded by the principles by ESR, or, should I say, the one and only, Eric Steven Raymond, a prominent programmer during the early days of CS, known for his literature work in software engineering and open source, The Cathedral and the Bazaar. He's quite known within the CS lore, and an exemplar that all aspiring software engineers should look up too. Throughout his experiences in software and collaboration, he purposes a series of premises of the nature of software engineering inquiries, or should ESR empahsizes, *the social etiquette of a hacker*. ESR has full in-depth principles in his blog. For a full analysis, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
-Here, I attempt to compress key principles and properties directly into formulating an influential "smart" question
+Akin to how scientific inquiry relies on empirical methods, observations, and experiments, and philosophical inquiry focuses more on logical reasoning and conceptual analysis. We, software engineers, have a rigorous methodology for crafting our nature of inquiries. One approach is grounded by the principles of ESR, or, should I say, the one and only, Eric Steven Raymond, a prominent programmer during the early days of CS, known for his literature work in software engineering and open source, The Cathedral and the Bazaar. He's quite well known within the CS lore and an exemplar that all aspiring software engineers should look up to. Throughout his experiences in software and collaboration, he proposes a series of premises of the nature of software engineering inquiries, or should ESR emphasize, *the social etiquette of a hacker*. ESR has full in-depth principles in his blog.  For a full analysis, see [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
+Here, I attempt to compress key principles and properties directly into formulating an influential "smart" question.
 
 #### The Methodological Approach of Inquiries for Software Engineers
 
@@ -123,13 +123,21 @@ The programmer even provided a follow-up solution to their problem in question! 
 
 
 
-**Why It's not Smart:** This question its quite a contradiction to ESR's principles. There are many red flags such as [4] Be Precise and Informative - The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear.
+**Why It's not Smart:** This question its quite a contradiction to ESR's principles. There are many red flags such as [4] Be Precise and Informative - The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e, What kind of frame are you referring too?), making it unclear. Can you spot many more red signals as well?
+
+**Making It Smart:** With what we know about ERB's principles outlined above, we can then transform this not smart question into a smart question! See the newly transformed question below:
+
+<div style="text-align: center;">
+    <img src="../img/the-nature-of-inquiry/transformed_smart_question.png" alt="Screenshot of a Not Smart Question" style="width:50%; height:50%;">
+</div>
 
 
+We went over the red flags what we've analyzed from the original question, and transformed into a very direct and clear question that technical readers can digest and solve smoothly. We clarify the game engine and programming language in question, the overall objective of the problem (enhancing user experience in games), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity, allowing the ladder to be more easier to answer?
 
 ### Evaluation
 
-We, software engineers, have our own rigorous methodology to crafting our nature of inquiries. We tend to craft our inquiries to maximize producitive output, akin to how scientist utilize their own methodology to produce productive results, or how and historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset. By adopting established guidelines like those set forth by Eric S. Raymond, to which, high-quality questions results in high-quality solutions, making us more pragmatic and productive when engineering software systems.
+
+We, software engineers, have a rigorous methodology for crafting our nature of inquiries. We tend to craft our inquiries to maximize productive output, akin to how scientist utilize their methodology to produce productive results, or how historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset. By adopting established guidelines like those set forth by Eric S. Raymond, high-quality questions result in high-quality solutions, making us more pragmatic and productive when engineering software systems.
 
 
 Note: ChatGPT assisted with the summarization of [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
