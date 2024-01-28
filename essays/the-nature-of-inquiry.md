@@ -134,21 +134,21 @@ The programmer even provided a follow-up solution to their problem in question! 
 
 **Why It's not Smart:** This question is quite a contradiction to ESR's principles. There are many red flags such as [4] Be Precise and Informative - The question is not precise. It does not provide details about the programming environment, tools used, or the specific problem in the code. [8] Describe Symptoms, Not Guesses - The question doesn't describe symptoms or behaviors in a programming context, only a desired outcome. [11] Be Explicit in Your Question - the programmer doesn't provide details about what has been tried or what specific help is needed (i.e., What kind of frame are you referring to?), making it unclear. Can you spot many more red signals as well?
 
-**Making It Smart:** With what we know about ERB's principles outlined above, we can then transform this not smart question into a smart question! I've modified the question via inspect element in Chrome and made sure it envisions ERB's conventions. See the newly transformed question below:
+**Making It Smart:** With what we know about ESR's principles outlined above, we can then transform this not smart question into a smart question! I've modified the question via inspect element in Chrome and made sure it envisions ESR's conventions. See the newly transformed question below:
 
 <div style="text-align: center;">
     <img src="../img/the-nature-of-inquiry/transformed_smart_question.png" alt="Screenshot of a Not Smart Question" style="width:50%; height:50%;">
 </div>
 
 
-We went over the red flags we've analyzed from the original question, highlighted the contradictions as outlined by ERB's Smart Questions principles, and transformed this not-so-smart question into a very direct and clear question that technical readers can digest and solve smoothly. We've clarified the game engine and programming language in question for context, we've stated the overall objective of the problem (the author is enhancing user experience in his game), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity between the former and the ladder? The ladder provides a concise, straightforward, and direct inquiry that is more productive to digest for our interested technical readers! We even provided a follow-up solution for our potential future readers, who will, one day, face the same problem as you had!
+We went over the red flags we've analyzed from the original question, highlighted the contradictions as outlined by ESR's Smart Questions principles, and transformed this not-so-smart question into a very direct and clear question that technical readers can digest and solve smoothly. We've clarified the game engine and programming language in question for context, we've stated the overall objective of the problem (the author is enhancing user experience in his game), and provided a concise objective for the technical reader, as outlined by the imaginary code block. Notice the change of ambiguity and clarity between the former and the ladder? The ladder provides a concise, straightforward, and direct inquiry that is more productive to digest for our interested technical readers! We even provided a follow-up solution for our potential future readers, who will, one day, face the same problem as you had!
 
 ### Evaluation
 
 
 We, software engineers, have a rigorous methodology for crafting our nature of inquiries. We tend to craft our inquiries to maximize productive output, akin to how scientist utilize their methodology to produce productive results, or how historians methodically analyze past events to understand and interpret our world, we too approach our software engineering problems with a structured and analytical mindset.
 
-When I first learned about ERB's Smart Question Principles, I was quite amused by how deep the meta-process goes when doing software engineering. It's not just designing and engineering software, but how to collaborate effectively during such technical processes. It's one of those 'people skills' that fosters productivity and collaboration in a software project.
+When I first learned about ESR's Smart Question Principles, I was quite amused by how deep the meta-process goes when doing software engineering. It's not just designing and engineering software, but how to collaborate effectively during such technical processes. It's one of those 'people skills' that fosters productivity and collaboration in a software project.
 
 
 By adopting established guidelines like those set forth by Eric S. Raymond, we can generate high-quality questions that will result in high-quality solutions, making us more pragmatic and productive when engineering large and complex software systems.
