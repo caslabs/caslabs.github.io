@@ -17,7 +17,9 @@ labels:
 
 Just as knights were expected to uphold honor and duty, coding standards emphasize readability, maintainability, and functionality in code. With that, programmers adhere to standards written by the architecture, to whom that whoever be. I beleive coding standards does teach you how the certain naunces of a programming languages. But I believe, moreso, that creating the coding standards is more appropriate for learning a programming language. My key reason is that this particular activity requires understanding the sets of bad practices in programming languages, and mitigations of such behaviors by designing your own conventions, and teaching these to your team.
 
-I suppose in code review acitivities, you have your own conventions beyond the adhered coding standards set by the documentation, that makes you a strong programmer.
+In terms of merely following the coding standards, I suppose the programmer will differentiate between good and bad code, which in itself, is a learning acitvity of understanidng programming language lingo. Since there are infinite ways of implementation of such feature, we tend to choose the best path to that feature. And the only way to recognize such path, is to understand the programming language at the inner level.
+
+I suppose in code review activities, you have your own conventions beyond the adhered coding standards set by the documentation, that makes you a strong programmer.
 
 
 ### Quest for the Holy Code
