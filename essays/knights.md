@@ -10,7 +10,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/knights/before-meme.jpg" alt="Knights of the round table" style="width:30%; height:30%;">
+    <img src="../img/knights/knights-of-the-code-table.png" alt="Knights of the round table in terms of Software Engineering characteristics" style="width:30%; height:30%;">
 </div>
 
 ### We All Follow an Ethos
