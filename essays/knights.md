@@ -27,7 +27,7 @@ In terms of merely following the coding standards, I suppose the programmer will
 
 With respect to the collaborative process of code review, where we critique and peer review our fellow programmers, adhering to the standard coding guidelines set forth by the codebase, it's not just following the rules, it's a hallmark of what defines a competent programmer. It is the demonstration of a deeper understanding and mastery of the language, reflecting a level of expertise that transcends basic compliance with established standards.
 
-The journey of a software engineer is not merely about technical acumen; it is deeply adherence to the ethos of creating, maintaining, and evolving within our pursuit of our own craftmanship - a coder's commitment to excellence.
+The journey of a software engineer is not merely about technical acumen; it is deeply adherence to the ethos of creating, maintaining, and evolving within our pursuit of our own craftmanship - a coder's commitment to excellence. An ethos we follow.
 
 
 ### The Quest for the Holy Code
