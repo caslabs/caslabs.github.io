@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "An Unstable Future"
-date: 2024-01-18
+title: "The Framework Fanatic"
+date: 2024-21-20"
 published: true
 labels:
   - Software Engineering
@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/an-unstable-future/new_framework_just_dropped.png" alt="the paroady of frameworks" style="width:30%; height:30%;">
+    <img src="../img/the-framework-fanatic/new_framework_just_dropped.png" alt="the paroady of frameworks" style="width:30%; height:30%;">
 </div>
 
 ### Why Bother?
