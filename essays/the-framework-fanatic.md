@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The Framework Fanatic"
-date: 2024-21-20"
+date: 2024-2-20"
 published: true
 labels:
   - Software Engineering
