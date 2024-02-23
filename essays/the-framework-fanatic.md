@@ -22,7 +22,11 @@ Why bother to wield a tool, when the hands alone can shape and create? Why bothe
 
 As you can generalize, we alone design tools for efficiency. Bootstrap 5, is no different than a tool that replaces the hands alone to which create and shape. Thinking beyond the realm of software frameworks, tools are what defines on what makes us humans. We are, of course, a species that design and crafts tools to our advantage. Even though, there exist animals that inherent such ability, what makes us more uniqe - is the ability to create advance tools - such as, but not limiting too, software frameworks.
 
-We use frameworks to produce at an optimal rate, with concrete implementations prior to the main development of such project. It is the accumulation of technical ideas that was implemented prior, in such that, in the future, developers are able to grab that wisdom to their own projects, without the hassle of building things from scratch.
+We leverage frameworks to enhance productivity, incorporating proven implementations before the primary development phase of a project. This approach is a consolidation of pre-existing technical solutions, enabling future developers to efficiently integrate this collective wisdom into their projects. By doing so, they can bypass the need to create foundational elements from scratch, streamlining the development process.
+
+The use of these frameworks means that developers are not starting from a 'tabula rosa' state, or a state to which is empty - in this particular scenario, an empty directory that will soon to be populated with dozens of code files. Instead, we are at the point of technological progress, such that, we have a disposal a wealth of pre-built modules, standardized code, and best practices ready for our disposal. This reservoir of resources serves as a springboard, propelling development forward at a pace that would be unattainable if everything had to be built from the ground up!
+
+Wha's fascinating is that these particular frameworks are generally open source, meanign that, such framework also fosters a culture of learning and knowledge-sharing, as each project contributes back to the framework, enriching it for future use. One fascinating concept that open source software projects enables.
 
 Now, raw HTML and CSS can be analogize to our pure hands. Indeed, such tools are merely principles or atoms that we can potentially use to design our projects. Yet, the most inefficent due its purity. Bootstrap 5, or any HTML/CSS Frameworks are meant to create more features and accessbility for HTML/CSS.
 
