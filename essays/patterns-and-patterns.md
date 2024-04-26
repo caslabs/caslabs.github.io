@@ -10,7 +10,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/patterns-and-patterns/screws.png" alt="Design Patterns for Engineering" style="width:100%; height:30%;">
+    <img src="../img/patterns-and-patterns/screws.png" alt="Design Patterns for Engineering" style="width:60%; height:30%;">
 </div>
 
 Imagine an engineer working on various projects, each requiring the assembly of parts in some way. The screw becomes a fundamental tool, adapting to different needs—whether securing a delicate component in a watch or bolting together heavy machinery. Despite the wide uses found in every physical engineering project, the screw acts as a language: its fundamental design—a helical ridge wrapped around a cylindrical shaft—remains constant, but it can be customized in size, material, and head type to suit different project requirements. This allows the engineer to efficiently solve a common structural design problems, demonstrating how a foundational design can be adapted for broad, versatile use without needing reinvention for each new project.
