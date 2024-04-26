@@ -39,7 +39,7 @@ Naturally, our industry moves quickly as to how software iterates rapidly, and s
 
 I'd seperate my two experiences of Design Patterns into two fields of software I've dabbled the most - Web Development and Game Development. Each field of work dabbles different functionality of software systems, but each contain similiar programming designs that can be adapted any software systems.
 
-### The Time I created A Survey App
+### The Time I Created A Survey App
 
 One thing, that all web apps are naturally designed, is that it's very event-driven. You do some thing around the app, and the system changes and adapts to whatever the user's goals and motivation. I remember the first time designing a web app using default HTML, CSS, Javascript, I had a system that without utilizing any advanced state management or observer patterns. The setup typically involves directly manipulating the DOM (Document Object Model) based on user interactions. Happily I was to get it working, as the complexity of user interactions increases (e.g., conditional questions based on previous answers, real-time feedback on inputs), I had to manually managing these through direct DOM manipulations! Hence, limiting developer productivity.
 
@@ -47,7 +47,7 @@ One thing, that all web apps are naturally designed, is that it's very event-dri
 
 To be more precise, React’s emobides Observer pattern through useState, managing states locally within components and useContext for more complex state that needs to be shared across multiple component, effecitvely eliminating direct DOM manipulations, instead using a declarative style where you describe the UI as a function of state!
 
-### Or the time, I created an AI System for my games
+### Or The Time, I Created An AI System For My Games
 
 Another use of designs patterns throughout my adventures in software engineering, and more explicitly engineered, was the time I created an AI System for my games. In gameplay engineering, we've often design various managers systems within our game, ResourceManager would handle the initialization and uses of all resources within our game, AudioManager would read through all the sound files defined in my audio folders and play them accordingly within my game, UIManager would handle the transitions of UIs from my game, from start menu to real time cutscenes for my players. Of course, AIManager would handle the creation and behavior of all my AI agents in my game, collectively swaming intelligence.
 
