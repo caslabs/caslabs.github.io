@@ -92,11 +92,11 @@ print(`Total enemies spawned by aiManager2: ${aiManager2.getEnemyCount()}`);
 ```
 Notice that since each enemy has its own AIManager, efficitviely always printing out `1` in the `getEnemyCount()` method. The expected output should be `2` because we have a Zombie and Skeleton enemy.
 
-How would I go about creating a single, universal AI system that can be used to communicate and share data for all my agens? Such as an enemy counter? Or, more generally, how do we address the common design challenge in software architectures of ensuring that distributed parts of a system can interact with and update a shared state in a consistent and efficient manner?
+How would I go about creating a single, universal AI system that can be used to communicate and share data for all my agents? Such as an enemy counter? Or, more generally, how do we address the common design challenge in software architectures of ensuring that distributed parts of a system can interact with and update a shared state in a consistent and efficient manner? Besides, having multiple instances of a complex manager like AIManager could be resource-intensive and unnecessary as well!
 
 #### A Singleton Design pattern!
 
-This is useful in cases where exactly one object is needed to coordinate actions across the system. The pattern ensures that a class has only one instance and provides a global point of access to it. Now here's how we would adjust our AIManager with a Singleton Design Pattern
+This is useful in cases where exactly one object is needed to coordinate actions across the system. The pattern ensures that a class has only one instance and provides a global point of access to it. Now here's how we would adjust our AIManager with a Singleton Design Pattern -  a creational design pattern that manages resources better by eliminating the overhead of multiple instance initializations!
 
 ```typescript
 // SingletonAIManager.ts
