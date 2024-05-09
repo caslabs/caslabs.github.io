@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cairtext.com/cairtext.png
+image: img/manoafitconnect.com/MFCLogo.png
 title: "manoafitconnect.com"
 date: 2024
 published: true
