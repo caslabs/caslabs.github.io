@@ -9,7 +9,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/software-engineering-is-a-system.png" alt="Software Engineering as a Cogwheel Analogy" style="width:60%; height:30%;">
+    <img src="../img/software-engineering-is-a-system/cogwheel.png" alt="Software Engineering as a Cogwheel Analogy" style="width:60%; height:30%;">
 </div>
 
 Software engineering is a complex system with many different components that define a software product. It involves stakeholders responsible for overseeing the entire vision of the product, developers in charge of the technical aspects, and users who represent the market. This creates a vibrant ecosystem of software engineering, where collaboration and standards play crucial roles in ensuring the successful delivery of software solutions. Within this ecosystem, certain practices and methodologies help streamline processes and enhance product quality, including Coding Standards, Agile Project Management, and the use of Design Patterns.
