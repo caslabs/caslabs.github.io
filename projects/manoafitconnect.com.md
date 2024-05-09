@@ -8,7 +8,9 @@ published: true
 labels:
   - Meteor
   - Fullstack
-summary: "Co-Engineered a B2C Manoa's Gym Social Hub."
+  - MongoDB
+  - React
+summary: "Co-engineered a B2C Manoa's Gym Social Hub."
 ---
 
 My colleagues and I co-founded a pioneering gym connectivity platform, Manoa Fit Connect, specifically tailored to address the challenges faced by University of Hawaii at Manoa (UHM) students at the gym. Within a short period of launching, our platform saw a surge of activity, garnering attention from a vast number of students seeking a more engaging and less daunting gym experience. We developed an intuitive full-stack application that not only facilitates seamless interactions between gym-goers but also demystifies gym equipment and routines, making fitness more accessible and enjoyable.
@@ -22,6 +24,6 @@ For our minimum viable product, we introduced a feature-rich interface that allo
 
 Our co-founder, deeply passionate about making fitness a less intimidating experience, was driven by her personal struggles with gym environments during her initial days at UHM. She envisioned a platform where every student, regardless of their fitness level, could feel confident and supported. This vision was crucial in shaping our platform's development, focusing on community building and user-friendly design.
 
-Throughout this journey, we have learned invaluable lessons about startup dynamics, particularly in the tech sector. It has been a process of constant learning, from ideating and creating a user-centric product to effectively marketing it to the target audience. We've also focused on gathering user feedback continuously, which has been instrumental in refining and enhancing the platform.
+Throughout this journey, we have learned invaluable lessons about team dynamics, particularly in the tech sector. It has been a process of constant learning, from ideating and creating a user-centric product to effectively marketing it to the target audience. We've also focused on gathering user feedback continuously, which has been instrumental in refining and enhancing the platform.
 
 By leveraging our technical expertise and a clear understanding of our audience's needs, we've successfully created a space that not only supports UHM students in their fitness journeys but also fosters a strong sense of community. As we continue to expand and enhance Manoa Fit Connect, we remain committed to our vision of making gym experiences more accessible, less intimidating, and socially enriching for everyone involved.
