@@ -6,6 +6,9 @@ date: 2024-5-8"
 published: true
 labels:
   - Software Engineering
+  - Software Process
+  - Software Construction
+  - Software Architecture
 ---
 
 <div style="text-align: center;">
