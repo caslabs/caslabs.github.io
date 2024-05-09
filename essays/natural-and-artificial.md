@@ -66,8 +66,6 @@ One particular challenge that AI can bring is that it tends to be a 'yes-man', i
 
 ### VI. Comparative Analysis:
 
-Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
-
 One key difference between traditional teaching and AI-enhanced teaching is the usability between them. What I love about AI-based technologies, is that they're mostly active 24/7. They respond to you anytime and anywhere without question, and you're free to ask without being critiqued or judged on what you say. AI-enhanced provides substantial opportunities for accessibility. In terms of knowledge retention, AI-based technologies, if prompt correctly, give you a more personalized learning experience than what traditional teaching could offer. For instance, I would often let ChatGPT give me more questions than solutions, such that I could engage critically akin to Socratic dialogues. However, I do admire some aspects of the traditional teaching methods, such as physical engagement with the material, and not being bounded by screen and keyboard.
 
 ### VII. Future Considerations:
