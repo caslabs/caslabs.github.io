@@ -11,7 +11,7 @@ labels:
   - Javascript
   - Fullstack
   - Healthcare
-summary: "Cofounded a B2B AI-driven accessibility healthcare startup."
+summary: "Cofounded a B2B AI-driven Accessibility Healthcare Startup."
 ---
 
 <div style="text-align: center;">

@@ -10,7 +10,7 @@ labels:
   - C#
   - Android
   - Augmented Reality
-summary: "International Winner Among 19 National Teams"
+summary: "International Winner Among 19 National Teams."
 ---
 
 <div style="text-align: center;">
