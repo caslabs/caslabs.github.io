@@ -54,12 +54,11 @@ Our framework utilizes a specialized encoding scheme to convert MIDI data into a
 ### Model Design
 
 <div style="text-align: center;">
-  <img class="img-fluid" width="40%"
+  <img class="img-fluid" width="40%" height="50%"
     src="../img/music-generating-transformer/model.png" />
 </div>
 
-The TransformerXL architecture is used to model the structure of music more effectively, particularly for capturing long-range dependencies in musical pieces. The recurrence mechanism and relative positional encoding in TransformerXL allow the model to learn and generate music with a better understanding of the relationships between different parts of a musical piece.
-
+The TransformerXL architecture excels in modeling the complex structure of music, particularly in capturing long-range dependencies within musical compositions. Its innovative recurrence mechanism and relative positional encoding enable the model to deeply understand and effectively generate music by maintaining a continuous awareness of the relationships across different sections of a piece. This capability allows TransformerXL to produce compositions that reflect a nuanced grasp of musical progression, coherence, and thematic development, enhancing the model's ability to generate sophisticated and contextually rich musical sequences.
 
 ## Predictive Modeling
 
