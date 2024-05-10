@@ -31,14 +31,17 @@ We believe that integrating fitness into the academic lifestyle at the Universit
 
 As a co-developer, I played a crucial role in developing the live web services. My responsibilities included leading a dedicated team of fellow engineers in engineering the robust platform, which now supports dynamic user interactions and community engagement through features like our buddy system. Additionally, I've engineered a profile system that lists all of our users in our app, enhancing the community feel and making it easier for members to connect and engage with one another.
 
-<div style="text-align: center; width: 50%;">
-  <img class="img-fluid" src="../img/manoafitconnect.com/WorkoutM3.png" style="display: block; margin: 0 auto;">
+<div style="text-align: center;">
+  <img class="img-fluid" width="40%"
+   src="../img/manoafitconnect.com/WorkoutM3.png"
 </div>
 
 For our minimum viable product, we introduced a feature-rich interface that allowed users to connect with potential gym partners, learn about various workout routines, and navigate gym equipment with ease. Our platform was envisioned during a time when digital fitness solutions were just beginning to gain traction, providing us with the unique opportunity to lead with innovation in a tech-driven fitness environment.
 
-<div style="text-align: center; width: 50%;">
-  <img class="img-fluid" src="../img/manoafitconnect.com/equipmentM2.png" style="display: block; margin: 0 auto;">
+
+<div style="text-align: center;">
+  <img class="img-fluid" width="40%"
+    src="../img/manoafitconnect.com/equipmentM2.png"
 </div>
 
 
