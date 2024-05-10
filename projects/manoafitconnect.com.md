@@ -17,8 +17,7 @@ summary: "Co-engineered a B2C Manoa's Gym Social Hub."
   <img class="img-fluid" src="../img/manoafitconnect.com/MFCLogo.png" style="display: block; margin: 0 auto;">
 </div>
 
-
-Manoa Fit Connect, a pioneering gym connectivity platform tailored for University of Hawaii at Manoa students. Developed using [MongoDB](https://www.mongodb.com/), [Meteor](https://www.meteor.com/), and [React](https://reactjs.org/) for a dynamic user experience, deployed as a full-stack application accessible via web browsers. Visit our project: [Manoa Fit Connect](http://manoafitconnect.com)
+Manoa Fit Connect, a pioneering gym connectivity platform tailored for University of Hawaii at Manoa students. Developed using [MongoDB](https://www.mongodb.com/), [Meteor](https://www.meteor.com/), and [React](https://reactjs.org/) for a dynamic user experience, deployed as a full-stack application accessible via web browsers. Visit our app: [Manoa Fit Connect](http://manoafitconnect.com) and Visit our project: [https://manoa-fit-connect.github.io/](https://manoa-fit-connect.github.io/)
 
 My colleagues and I co-founded a pioneering gym connectivity platform, Manoa Fit Connect, specifically tailored to address the challenges faced by University of Hawaii at Manoa (UHM) students at the gym. Within a short period of Upon launching, our platform experienced rapid adoption, driven by its robust technical framework. Utilizing MongoDB for efficient data handling, and Meteor for seamless real-time communication, the application supported a dynamic front-end experience that effectively streamlined interactions among users. . We developed an intuitive full-stack application that not only facilitates seamless interactions between gym-goers but also showcases Manoa's gym equipment and routines, making fitness more accessible and enjoyable.
 
@@ -47,6 +46,6 @@ For our minimum viable product, we introduced a feature-rich interface that allo
 
 Our co-member, deeply passionate about making fitness a less intimidating experience, was driven by his personal struggles with gym environments. He envisioned a platform where every student, regardless of their fitness level, could feel confident and supported. This vision was crucial in shaping our platform's development, focusing on community building and user-friendly design.
 
-Throughout this journey, we have learned invaluable lessons about team dynamics, particularly. It has been a process of constant learning, from ideating and creating a user-centric product to effectively marketing it to the target audience. We've also focused on gathering user feedback continuously, which has been instrumental in refining and enhancing the platform.
+Throughout this journey, I have learned invaluable lessons about team dynamics, particularly. It has been a process of constant learning, from ideating and creating a user-centric product to effectively marketing it to the target audience. We've also focused on gathering user feedback continuously, which has been instrumental in refining and enhancing the platform.
 
 During a short time frame, We've successfully created a space that supports UHM students in their fitness journeys and also fosters a strong sense of community. Our vision of making gym experiences more accessible, less intimidating, and socially enriching for everyone involved has always been our objective. We are a team of innovators committed to improving student life through technology.
