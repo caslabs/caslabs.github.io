@@ -28,16 +28,23 @@ I was the lead programmer who orchestrated the music-generating AI. Along with m
 
 ## Data Exploration
 ### Composer Distribution
+
+
 <div style="text-align: center;">
-<img class="img-fluid" src="../img/music-generating-transformer/representation.png" style="width:60%; height:30%;">>
+  <img class="img-fluid" width="40%"
+    src="../img/music-generating-transformer/representation.png" />
 </div>
+
+
 To provide a clearer picture of the data's composition, we constructed a bar chart detailing the number of MIDI files per composer. This visual representation is not just a mere statistic; it's a crucial analytical tool that allows us to identify potential biases in the dataset.  The chart helps us see which composers are underrepresented, guiding us to make informed decisions about how to enhance the diversity of our dataset.
 
 ## Feature Engineering
 
 <div style="text-align: center;">
-<img class="img-fluid" src="../img/music-generating-transformer/representation1.png" style="width:60%; height:30%;">>
+  <img class="img-fluid" width="40%"
+    src="../img/music-generating-transformer/representation1.png" />
 </div>
+
 
 Our framework utilizes a specialized encoding scheme to convert MIDI data into a format suitable for a transformer model. This process begins with the MIDI data being translated into a sequence of "events," which encapsulate various musical actions such as note activations/deactivations, pitch bends, and instrument changes. Each of these events is then assigned a unique token ID based on a predefined vocabulary, effectively transforming them into tokens. These tokens are subsequently embedded into continuous vector spaces via a learned embedding layer, which facilitates their processing by the transformer model's encoder layer. This encoder transforms the token embeddings into a series of hidden representations, which the decoder layer uses to generate the output sequence. To ensure consistency, the output sequence's token IDs are converted back into MIDI events, mirroring the original format of the input data. By standardizing the vocabulary and encoding process, the MusicAutobot library streamlines the preparation of MIDI data for use in transformer models, enhancing both efficiency and compatibility.
 
@@ -47,7 +54,8 @@ Our framework utilizes a specialized encoding scheme to convert MIDI data into a
 ### Model Design
 
 <div style="text-align: center;">
-<img class="img-fluid" src="../img/music-generating-transformer/model.png" style="width:60%; height:30%;">>
+  <img class="img-fluid" width="40%"
+    src="../img/music-generating-transformer/model.png" />
 </div>
 
 The TransformerXL architecture is used to model the structure of music more effectively, particularly for capturing long-range dependencies in musical pieces. The recurrence mechanism and relative positional encoding in TransformerXL allow the model to learn and generate music with a better understanding of the relationships between different parts of a musical piece.
@@ -58,8 +66,10 @@ The TransformerXL architecture is used to model the structure of music more effe
 ### MIDI to Musical Note Conversation
 
 <div style="text-align: center;">
-<img class="img-fluid" src="../img/music-generating-transformer/notes.png" style="width:60%; height:30%;">>
+  <img class="img-fluid" width="40%"
+    src="../img/music-generating-transformer/notes.png" />
 </div>
+
 
 Here, we demostrated how to generate MIDI files using a pre-trained model. The output of the notebook is a MIDI file that can be played back using an external software synthesizer or converted to an audio file using tools like Music21 or FluidSynth.
 
