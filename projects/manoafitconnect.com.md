@@ -13,9 +13,12 @@ labels:
 summary: "Co-engineered a B2C Manoa's Gym Social Hub."
 ---
 
+
 <div style="text-align: center;">
-  <img src="../img/manoafitconnect.com/MFCLogo.png"
+  <img class="img-fluid" width="40%"
+    src="../img/manoafitconnect.com/MFCLogo.png" />
 </div>
+
 
 Manoa Fit Connect, a pioneering gym connectivity platform tailored for University of Hawaii at Manoa students. Developed using [MongoDB](https://www.mongodb.com/), [Meteor](https://www.meteor.com/), and [React](https://reactjs.org/) for a dynamic user experience, deployed as a full-stack application accessible via web browsers. Visit our app: [Manoa Fit Connect](http://manoafitconnect.com) and visit our project site: [https://manoa-fit-connect.github.io/](https://manoa-fit-connect.github.io/)
 
