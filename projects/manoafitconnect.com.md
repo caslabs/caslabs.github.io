@@ -33,7 +33,7 @@ As a co-developer, I played a crucial role in developing the live web services. 
 
 <div style="text-align: center;">
   <img class="img-fluid" width="40%"
-   src="../img/manoafitconnect.com/WorkoutM3.png"
+   src="../img/manoafitconnect.com/WorkoutM3.png" />
 </div>
 
 For our minimum viable product, we introduced a feature-rich interface that allowed users to connect with potential gym partners, learn about various workout routines, and navigate gym equipment with ease. Our platform was envisioned during a time when digital fitness solutions were just beginning to gain traction, providing us with the unique opportunity to lead with innovation in a tech-driven fitness environment.
@@ -41,7 +41,7 @@ For our minimum viable product, we introduced a feature-rich interface that allo
 
 <div style="text-align: center;">
   <img class="img-fluid" width="40%"
-    src="../img/manoafitconnect.com/equipmentM2.png"
+    src="../img/manoafitconnect.com/equipmentM2.png" />
 </div>
 
 
